@@ -5,6 +5,7 @@
 
 p {
     font-family: 'Outfit', serif;
+    font-size: 1rem;
 }
 
 .header-photo {
@@ -25,4 +26,9 @@ h1 {
     text-align: cen;
     font-family: 'Young Serif', sans-serif;
     font-weight: 600;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
 }
