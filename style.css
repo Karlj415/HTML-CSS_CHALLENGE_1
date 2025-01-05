@@ -1,0 +1,14 @@
+* {
+    box-sizing: content-box;
+}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    width: 50%;
+    margin: 0 auto;
+    display: block;
+}
+
